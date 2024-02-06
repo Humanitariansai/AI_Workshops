@@ -1,2 +1,1 @@
-# AI_Workshops
-AI Workshops
+# AI Workshops
